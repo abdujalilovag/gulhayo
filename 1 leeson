@@ -1,1 +1,2 @@
-
+son = int(input("Sonni kiriting: "))
+print("Oxirgi raqam:", abs(son) % 10)
